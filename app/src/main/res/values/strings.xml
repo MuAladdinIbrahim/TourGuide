@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">Alexander</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <!-- Tab names -->
+    <string name="category_Att">Attraction</string>
+    <string name="category_Cafe">Cafe</string>
+    <string name="category_Try">Try This</string>
+    <string name="category_Feel">Feel it</string>
+    <string name="category_Speak">Speak</string>
+
+    <string name="hello">Hello</string>
+    <string name="مرحبا">مرحبا</string>
+
+    <string name="How_are_you">How Are You?</string>
+    <string name="كيف_حالك">كيف حالك؟</string>
+
+    <string name="how_cost">How much does it cost?</string>
+    <string name="ما_السعر">ما سعر هذه؟</string>
+
+    <string name="What_for">What is it for?</string>
+    <string name="ما_استخدام">ما استخدام هذه؟</string>
+
+    <string name="where_restaurant">Where is the nearest restaurant</string>
+    <string name="أين_المطعم">أين أقرب مطعم؟</string>
+
+    <string name="yes">Yes</string>
+    <string name="naam">نعم</string>
+
+    <string name="No">No</string>
+    <string name="la">لا</string>
+
+    <string name="thanks">Thanks</string>
+    <string name="shokran">شكرا</string>
+
+    <string name="please">please</string>
+    <string name="mn_fadlk">من فضلك</string>
+
+
+    <string name="no_understand">I can not understand</string>
+    <string name="la_afham">لا أفهم</string>
+
+    <string name="what_say">What do you say?</string>
+    <string name="maza_taqol">ماذا تقول ؟</string>
+
+    <string name="speak_english">Do you speak English ?</string>
+    <string name="hal_englsih">هل تتحدث الإنجليزية ؟</string>
+
+
+
+</resources>
